@@ -2,7 +2,7 @@
 
 welcome to my github!
 
-i'm a sophomore studying computer science at yale university.
+i'm a junior studying computer science at yale university.
 
 a little bit about me:
 - i work on the tech team for the yale daily news
